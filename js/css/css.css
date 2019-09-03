@@ -1,0 +1,72 @@
+body {
+
+}
+
+.math {
+    font-size: 20px;
+}
+
+.math input {
+    border: 1px black #4caf50;
+    margin: 0;
+    font-size: 20px;
+    width: 45px;
+    color: #212121;
+    padding: 0 10px;
+    font-family: "Times New Roman", Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+}
+
+#display {
+    border: 1px solid black;
+    margin: 0 10px;
+    font-size: 20px;
+    color: #212121;
+    height: 40px;
+    background: orange;
+    text-align: left;
+    padding: 0 10px;
+    font-family: "Times New Roman", Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+}
+#calcResult {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    border: 2px solid #4caf50;
+    color: #212121;
+    /*height: 40px;*/
+    /*width: 70px;*/
+    background: aqua;
+    font-size: 25px;
+}
+
+#calcResult:hover {
+    background: red;
+}
+
+#calcResult:active {
+    background: orange;
+}
+#calcResult:visited {
+    background: orange;
+}
+
+/*.sera input {*/
+/*    border: 3px solid #4caf50;*/
+/*    margin: 10px 0;*/
+/*    font-size: 20px;*/
+/*    width: 80%;*/
+/*    color: #212121;*/
+/*    padding: 0 10px;*/
+/*}*/
+
+
+
+/*.sera {*/
+/*     border: 5px solid #4caf50;*/
+/*     margin: 0 auto;*/
+/*     width: 200px;*/
+/*     height: auto;*/
+/*     padding: 30px;*/
+/*     background: aliceblue;*/
+/*     text-align: center;*/
+/*     font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;*/
+/* }*/
